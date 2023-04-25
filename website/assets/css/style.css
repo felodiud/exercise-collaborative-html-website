@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: black;
 }
 
 .fondo {
@@ -9,4 +9,28 @@ body{
 
 a {
     color: cornflowerblue;
+}
+/* fisrt heading*/
+
+
+.caja {
+    width: 100%;
+    /* margin: 0px 0px 0px 0px; */
+    height: 400px;
+    background-color: white;
+    justify-content: space-evenly;
+    display: flex;
+
+}
+.nutria {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center;
+    align-content: flex-start; */
+}
+.parrafo {
+    text-align: left;
 }
