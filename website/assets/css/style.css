@@ -22,20 +22,12 @@ a {
     display: flex;
 
 }
-.nutria {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    /* display: flex; */
-    /* justify-content: center;
-    align-items: center;
-    align-content: flex-start; */
-}
-.parrafo {
-    text-align: left;
-}
- 
+
 .walter {
     width: 250px;
     height: 250px;
+}
+
+.portafolio {
+    color: rgb(47, 112, 234);
 }
