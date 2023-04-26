@@ -4,11 +4,11 @@ body{
 
 .fondo {
     background-color: rgb(40, 40, 40);
-    color: cornflowerblue;   
+    color: rgb(193, 29, 29);   
 }
 
-a {
-    color: cornflowerblue;
+.letras {
+    color: rgb(161, 162, 165);
 }
 /* fisrt heading*/
 
@@ -30,4 +30,7 @@ a {
 
 .portafolio {
     color: rgb(47, 112, 234);
+}
+.textoplomo {
+    color: grey;
 }
